@@ -1,4 +1,4 @@
-# Momentum_Student-Growth-Journal
+
 # 🚀 Momentum – Student Growth Journal
 
 > **Study Better. Grow Every Day.**
@@ -134,28 +134,6 @@ Momentum follows a modern SaaS-inspired design system focused on simplicity and 
 * Responsive layouts
 * Accessible navigation
 
-### Theme
-
-**Light Mode**
-
-* Background: `#F8FAFC`
-* Surface: `#FFFFFF`
-* Primary: `#6366F1`
-* Secondary: `#8B5CF6`
-* Accent: `#06B6D4`
-* Success: `#22C55E`
-* Warning: `#F59E0B`
-* Danger: `#EF4444`
-* Text: `#0F172A`
-
-**Dark Mode**
-
-* Background: `#0F172A`
-* Surface: `#1E293B`
-* Primary: `#818CF8`
-* Accent: `#38BDF8`
-
----
 
 ## 🛠️ Tech Stack
 
@@ -205,15 +183,6 @@ Momentum/
 └── README.md
 ```
 
-All HTML, CSS, and JavaScript are contained inside:
-
-```text
-index.html
-```
-
-This makes the project extremely easy to download, run, customise, and deploy.
-
----
 
 ## 🚀 Getting Started
 
@@ -307,28 +276,6 @@ Momentum was designed to demonstrate practical implementation of:
 * Browser storage
 * Component-style UI organization
 * Micro-interactions and animations
-
----
-
-## 📸 Screenshots
-
-Add screenshots of your application here:
-
-```markdown
-## 📸 Screenshots
-
-### Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-### Study Journal
-![Journal](screenshots/journal.png)
-
-### Goals
-![Goals](screenshots/goals.png)
-
-### Analytics
-![Analytics](screenshots/analytics.png)
-```
 
 ---
 
